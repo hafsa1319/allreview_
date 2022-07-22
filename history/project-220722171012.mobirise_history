@@ -101,7 +101,7 @@
       "icon": "@PROJECT_PATH@/assets/images/logo-512x512.png",
       "themeColor": "#f7d9c4"
     },
-    "uniqCompNum": 90,
+    "uniqCompNum": 89,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "global_header_custom": "<script src=\"https://cdn.gravitec.net/storage/577060b74be6c25f3ea1b6c2cb32efcf/client.js\" async></script>",
