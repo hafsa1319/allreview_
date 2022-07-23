@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "mannsshaft.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "softwarem4",
       "title": "SoftwareM4",
@@ -2219,11 +2219,11 @@
           "_anchor": "mbr-popup-1o",
           "_isUserblock": true,
           "_cid": "tcp42HLRg7",
-          "_popupId": "mbr-popup-1o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_popupId": "mbr-popup-1o"
         }
       ]
     },
